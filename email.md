@@ -1,4 +1,4 @@
-### Blockchain
+### Blockchain and DLT
 * [What is the Distinction Between a Blockchain and a Distributed Ledger?](https://www.r3.com/blog/what-is-the-distinction-between-a-blockchain-and-a-distributed-ledger/)
 * [The Difference Between Blockchains & Distributed Ledger Technology](https://towardsdatascience.com/the-difference-between-blockchains-distributed-ledger-technology-42715a0fa92)
 * [Blockchain vs. Distributed Ledger Technologies](https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289a87b16) Part 1 of a comparative analysis between Ethereum, Hyperledger Fabric and R3 Corda
@@ -10,6 +10,7 @@
 * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 * [Wolf in Sheep's Clothing: Disruption Ahead for Transaction Banking](http://www.bain.com/publications/articles/disruption-ahead-for-transaction-banking.aspx)
 * [10 Advantages of Using Smart Contracts](https://medium.com/@ChainTrade/10-advantages-of-using-smart-contracts-bc29c508691a)
+* Blockchain Revolution (foundational book of Blockchain and DLT) (http://blockchain-revolution.com/)
 
 ### Corda
 * [New to Corda? Start here!](https://medium.com/corda/new-to-corda-start-here-8ba9b48ab96c) By Richard Gendal Brown - CTO at R3
